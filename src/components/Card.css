@@ -1,0 +1,16 @@
+
+.containerra {
+  display: grid;
+  grid-template-columns: 30% 30% 30%;
+
+  padding: 10px;
+  gap: 20px;
+
+  align-items: center;
+  justify-content: center;
+}
+
+.itemsa {
+  text-align: center;
+  width: 350px;
+}
